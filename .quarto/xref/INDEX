@@ -1,0 +1,44 @@
+{
+  "about.qmd": {
+    "about.html": "8aae3329"
+  },
+  "index.qmd": {
+    "index.html": "fee4953b"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "9a06c417"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "3dd1d241"
+  },
+  "posts/Anomaly Detection/index.qmd": {
+    "index.html": "df3ccf13"
+  },
+  "posts/Classification/index.qmd": {
+    "index.html": "0d88aaa0"
+  },
+  "posts/Clustering/index.qmd": {
+    "index.html": "df255fa3"
+  },
+  "posts/Predictive Analysis/index.qmd": {
+    "index.html": "48bfc73f"
+  },
+  "posts/Regression/index.qmd": {
+    "index.html": "827188d4"
+  },
+  "posts/Anomaly Detection/Anomaly.ipynb": {
+    "Anomaly.html": "7493dae3"
+  },
+  "posts/Regression/Linear_Nonlinear_Regression .ipynb": {
+    "Linear_Nonlinear_Regression .html": "b9cbaf35"
+  },
+  "posts/Classification/Classification.ipynb": {
+    "Classification.html": "d2b6a45b"
+  },
+  "posts/Clustering/Clustering.ipynb": {
+    "Clustering.html": "af9ffa2f"
+  },
+  "posts/Predictive Analysis/PredictiveAnalysis.ipynb": {
+    "PredictiveAnalysis.html": "0477c8b6"
+  }
+}

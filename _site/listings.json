@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/Predictive Analysis/PredictiveAnalysis.html",
+      "/posts/Clustering/Clustering.html",
+      "/posts/Regression/Linear_Nonlinear_Regression .html",
+      "/posts/Classification/Classification.html",
+      "/posts/Anomaly Detection/Anomaly.html",
+      "/posts/Anomaly Detection/index.html",
+      "/posts/Classification/index.html",
+      "/posts/Clustering/index.html",
+      "/posts/Predictive Analysis/index.html",
+      "/posts/Regression/index.html"
+    ]
+  }
+]
